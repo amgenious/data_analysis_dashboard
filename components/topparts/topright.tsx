@@ -22,7 +22,7 @@ const TopRight = () => {
             </div>
             <div className='w-1/2'>
             <div className='flex justify-between mb-3'>
-                <p className='text-white'>Srip Mode</p>
+                <p className='text-white'>Mode</p>
                     <div className='flex gap-1 text-white'>
                         <SortDesc />
                         <Filter />
